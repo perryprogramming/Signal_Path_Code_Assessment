@@ -1,0 +1,21 @@
+###########################################################################
+# 
+# Listed below are language and framework rankings from part 1 of the code assessment
+#
+# Ruth Perry April 4, 2019 For Signal Path Coding Assessment
+#
+##########################################################################
+
+JQuery - 1
+Python - 3.5 (I've never been paid to write this code in production, but the majority of my school work has been in python)
+PHP - 1
+Scala - 1.5 (I have learned some of the basics during this assessment)
+Clojure - 1
+Haskell - 1
+Golang - 1
+Node.js - 1
+Ruby - 4
+Perl - 4
+Java - 4
+Angular - 1
+Chef - 1
