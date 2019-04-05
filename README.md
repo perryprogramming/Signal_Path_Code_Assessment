@@ -29,6 +29,8 @@ print specialMath(int(sys.argv[1]))
 The scala file can be compiled and ran from the command line: scalac SpecialMath.scala; scala SpecialMath.scala
 This file will also prompt for integer input from the command line and will display the output.
 
+The output of initial n of 90 is: 19740274219868223074
+
 
 Thank you for your time and consideration,
 
